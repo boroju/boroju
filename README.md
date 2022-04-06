@@ -3,7 +3,7 @@
 - 🎓 Bachelor of Information Systems
 - 📍 Located in Barcelona, Catalonia, Spain
 - 🌱 Vegan for Animal Rights
-- 💞️ I’m looking to collaborate on Big Data Engineering / AI projects
+- 💞️ I’m looking to collaborate on Big Data Engineering / Science or AI projects
 - 📫 You can reach me by using this email: boronat.j.e@gmail.com
 
 <!---
