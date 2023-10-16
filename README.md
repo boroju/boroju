@@ -1,6 +1,7 @@
 - 👋 Hi, my name is Julian Boronat
-- 💻 Big Data Engineer with +8 years of experience
+- 💻 Senior Data Engineer with +10 years of experience
 - 🎓 Bachelor of Information Systems
+- 🤓 Currently studying deep learning at UPC 
 - 📍 Located in Barcelona, Catalonia, Spain
 - 🌱 Vegan for Animal Rights
 - 💞️ I’m looking to collaborate on Big Data Engineering / Science or AI projects
