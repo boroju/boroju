@@ -7,6 +7,12 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRoamNpNTRkNm5hMmZoZ2piMDI3eHB0bTJlamFpY2pya2VkOHU0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghIByCGMKN4jkWMFkM/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://medium.com/@boroju" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
@@ -97,16 +103,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRoamNpNTRkNm5hMmZoZ2piMDI3eHB0bTJlamFpY2pya2VkOHU0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghIByCGMKN4jkWMFkM/giphy.gif"  />
-
-###
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=boroju&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="180" alt="stats graph"  />
 </div>
 
 ###
