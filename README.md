@@ -6,10 +6,6 @@
 
 ###
 
-<p align="center">>  📊 Data Geek<br>>  🤖 AI enthusiast<br>>  🌱 Vegan</p>
-
-###
-
 <div align="center">
   <a href="https://medium.com/@boroju" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
@@ -21,7 +17,7 @@
 
 ###
 
-<h4 align="left">Languages</h4>
+<h3 align="left">Languages</h3>
 
 ###
 
@@ -41,7 +37,7 @@
 
 ###
 
-<h4 align="left">Databases</h4>
+<h3 align="left">Databases</h3>
 
 ###
 
@@ -59,7 +55,7 @@
 
 ###
 
-<h4 align="left">Technologies and Frameworks</h4>
+<h3 align="left">Technologies and Frameworks</h3>
 
 ###
 
@@ -77,7 +73,7 @@
 
 ###
 
-<h4 align="left">Operating Systems</h4>
+<h3 align="left">Operating Systems</h3>
 
 ###
 
@@ -93,7 +89,7 @@
 
 ###
 
-<h4 align="left">Tools and Apps</h4>
+<h3 align="left">Tools and Apps</h3>
 
 ###
 
@@ -105,22 +101,12 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRoamNpNTRkNm5hMmZoZ2piMDI3eHB0bTJlamFpY2pya2VkOHU0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghIByCGMKN4jkWMFkM/giphy.gif"  />
-</div>
+<img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRoamNpNTRkNm5hMmZoZ2piMDI3eHB0bTJlamFpY2pya2VkOHU0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghIByCGMKN4jkWMFkM/giphy.gif"  />
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/boroju/boroju/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boroju&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=boroju&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="180" alt="stats graph"  />
 </div>
 
 ###
